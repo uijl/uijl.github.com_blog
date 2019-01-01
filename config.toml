@@ -1,0 +1,9 @@
+baseURL = "http://uijl.github.io/"
+languageCode = "en-us"
+title = "@uijl"
+
+[author]
+    name = "Joris den Uijl"
+    github = "uijl"
+    twitter = "jorisdenuijl"
+    linkedin = "jorisdenuijl"
