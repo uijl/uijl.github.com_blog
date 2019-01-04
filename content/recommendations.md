@@ -1,6 +1,6 @@
 ---
 title: "Recommendations"
-date: 2018-12-24T15:51:14+01:00
+date: 2019-01-01T12:00:00+01:00
 draft: false
 menu: "main"
 meta: "false"
