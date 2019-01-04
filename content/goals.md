@@ -6,9 +6,9 @@ menu: "main"
 meta: "false"
 ---
 
-Since I am trained as a (hydraulic) engineering I learned to code by myself. To prioritize my time I need a clear list of (prioritized) goals. The goal of publishing this list is similar as this website: Forcing myself to showcase my results and goals. If you have any questions or recommendations, please contact me on [twitter](https://www.twitter.com/jorisdenuijl).
+Since I am trained as a (hydraulic) engineer I learned to code by myself. To prioritize my time I need a clear list of (prioritized) goals. The goal of publishing this list is similar as this website: Forcing myself to showcase my results and goals. If you have any questions or recommendations, please contact me on [twitter](https://www.twitter.com/jorisdenuijl).
 
-This will be a "living" document and I'll update is as I came across something else or finished one of the listed goals.
+This will be a "living" document and I'll update this as I came across something else or finished one of the listed goals.
 
 ### 1. Python
 
@@ -31,7 +31,7 @@ I selected two courses to get me started:
 
 It is very frustrating to gain valuable insights on Machine Learning due to all the bullshit that is available online. I once started a course on [Udacity](https://classroom.udacity.com/courses/ud120) but quit halfway through after realising it was more or less a showcase on using [Scikit-Learn](http://scikit-learn.org/stable/index.html). Of course, being able to use a powerfull library such as SKLearn is very valuable, but I think that understanding the mathematics underlying these algorithms (even only the basics) is required to actually draw conclusions from your output.
 
-I really enjoyed the course by [Andrew Ng on Machine Learning](https://www.coursera.com). It is focussed (to a certain extend) on the mathematics behind Neural Networks especially, which I found very interesting and was exactly what I was looking for. I even paid for the certificate, the only one I every paid for. If you want to learn more on Linear Algebra I recommend the videos by [Three Blue One Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Three Blue One Brown uses powerfull visualisations — [his code for doing so is open source](https://github.com/3b1b/manim) — and this allows the viewer a better insight on how linear algebra works. His movies on [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) have these interesting visualisations as well and are a nice addition to the lectures by Andrew Ng.
+I really enjoyed the course by [Andrew Ng on Machine Learning](https://www.coursera.com). It is focussed (to a certain extend) on the mathematics behind Neural Networks especially, which I found very interesting and was exactly what I was looking for. I even paid for the certificate, the only one I ever paid for. If you want to learn more on Linear Algebra I recommend the videos by [Three Blue One Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Three Blue One Brown uses powerfull visualisations — [his code for doing so is open source](https://github.com/3b1b/manim) — and this allows the viewer a better insight on how linear algebra works. His movies on [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) have these interesting visualisations as well and are a nice addition to the lectures by Andrew Ng.
 
 This is my current state. I am planning to apply the gained skills into some interesting blogposts. To deepen my knowledge I want to follow some more courses and I have started with deep probability. As I understand this is one of the thoughest courses at Stanford, but that seems to be the best motivation I can have:
 

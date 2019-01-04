@@ -34,7 +34,7 @@ The first basic analysis of the dataset I just obtained is checking the number o
 
 ![Average number of goals per Champions League match](https://raw.githubusercontent.com/uijl/uijl.github.io_blog/master/figures/football-average-goals-per-match.png "Average number of goals per Champions League match")
 
-### What is *right before the brak*
+### What is *right before the break*
 
 So, finally the analysis that is the reason for me to start this exercise. For an actual scientific answer I would like to have had a larger dataset, but with close to 10,000 matches I hope to get close to an accurate answer. What would be an interesting *period of interest* in which the scoring team would actually benefit from scoring. To answer that, I plotted the percentage of goals scored for every minute of the match, see the example below.
 
