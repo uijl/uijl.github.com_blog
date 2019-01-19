@@ -33,6 +33,7 @@ I like listening to podcasts: both the non-fiction storytype and interviews. Of 
 - [The Indie Hackers Podcast](https://www.indiehackers.com/podcast). This is the podcast by the website "Indie Hackers": A forum on which creators of business come together to as for, and share, advise. The founder of the website, Courtland Allen, interviews a wide variety of guests with one common theme: how to start or run a business without investment.
 - [Caliphate](https://www.nytimes.com/interactive/2018/podcasts/caliphate-isis-rukmini-callimachi.html). There won't be any new episodes but this is one of the best podcasts I ever listened to. It is made by two journalists of the New York Times that even travelled to Syria for their research.
 - [Joe Rogan with Elon Musk](https://www.youtube.com/watch?v=ycPr5-27vSI). Again, Elon Musk. I am not subscribed to the podcast by Joe Rogan, but sometimes he has interesting guests. Like this time, and although it was very controversial (for Wall street ..) because Elon Musk was sipping whiskey and smoking weed, the interview is very interesting.
+- [Tim Ferris with Patrick Collison](https://tim.blog/2018/12/20/patrick-collison/). I like the podcast by Tim Ferris, and listen to most of them. This one with Patrick Collision (the co-founder of [Stripe](https://www.stripe.com)) is very nice. My reading list has doubled due to this episode.
 
 ### Courses
 

@@ -211,7 +211,16 @@ time {
 }
 
 a {
-  color: #666666;
+  color: #000000;
+  text-decoration: none;
+}
+
+article a {
+  border-bottom: 1px solid #A6DCF3;
+  box-shadow: inset 0 -6px 0 #A6DCF3;
+  color: inherit;
+  -webkit-transition: background .15s cubic-bezier(0.33,0.66,0.66,1);
+  transition: background .15s cubic-bezier(0.33,0.66,0.66,1);
   text-decoration: none;
 }
 
