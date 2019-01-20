@@ -56,7 +56,7 @@ For this analysis I do not care whether the goal is scored by the home-team or t
 Of the total dataset with 9,532 matches there are 7,789 matches with no goal within the period of interest. From the remaining 1,743 matches I take 22 matches not into account because the lead of one of the teams is too large. So the final dataset contains 1,721 matches.
 
 | Option   | Matches | Wins   | Ties   | Losses |
-|:-------- | -------:| ------:| ------:| ------:|
+|:---------| -------:| ------:| ------:| ------:|
 | Option 1 |     617 | 92.87% |  5.51% |  1.62% |
 | Option 2 |     782 | 74.42% | 15.86% |  9.72% |
 | Option 3 |     239 | 41.84% | 23.85% | 34.31% |
@@ -67,7 +67,7 @@ It suprised me how strong this effect is. Especially *option 3*, you would expec
 To see to what extend scoring *right before the break* has an effect, I did the same analysis without a specific period. Just by looking at the team that scored the last goal before the break. As the table below shows, for option 1 and option 2 the results are similar. However, for a team that is trailing (option 3 and option 4) the effect of scoring right before the break is much more significant. Gaining a point (win +3 or tie +1) is much more likely if you score right before the break.
 
 | Option   | Matches | Wins   | Ties   | Losses |
-|:-------- | -------:| ------:| ------:| ------:|
+|:---------| -------:| ------:| ------:| ------:|
 | Option 1 |   1,545 | 94.56% |  4.01% |  1.42% |
 | Option 2 |   3,716 | 74.35% | 16.87% |  8.77% |
 | Option 3 |     879 | 33.67% | 33.11% | 33.22% |
@@ -75,7 +75,7 @@ To see to what extend scoring *right before the break* has an effect, I did the 
 
 ### Conclusion
 
-This shows that the Dutch commentators are right when they come with their favorite open door. For a trailing team there seems to be a significant boost when they score right before the break.
+The analysis above shows that the Dutch commentators are right when they come with their favorite open door. Of course the data is limited, but for a trailing team, option 3 and option 4, there seems to be a significant boost when they score right before the break.
 
 <br>
 **This was my first blog post. If you have any recommendations, please contact me on [Twitter](https://www.twitter.com/jorisdenuijl "Twitter of Joris") or [GitHub](https://github.com/uijl/uijl.github.io_code "GitHub of Joris"). And if you like it, please share!**

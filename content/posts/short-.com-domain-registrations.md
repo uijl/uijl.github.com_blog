@@ -1,7 +1,7 @@
 ---
-title: "When are all two and three-character .com domains registered?"
-date: 2019-01-01T12:00:00+01:00
-draft: true
+title: "When are all short .com domains registered?"
+date: 2019-01-20T12:00:00+01:00
+draft: false
 tags: [Webscraping, Data Analysis, Data]
 categories: []
 ---
@@ -45,9 +45,9 @@ It took over two and a half years to register the first 20 domain two- or three-
 
 ### Bottom 20
 
-The latest registration of any of the domains was on July 19th, 2018. Only a month ago. But given the fact that it has been registered by DropCatch.com it probably has been registered before, unfortunately I have not been able to retrieve the original registration date. The same is true for the second-to-last registration, this was on May 13, 2018 and is also held bij DropCatch.com.
+The latest registration of any of the domains was on July 19th, 2018. Only a month ago. But given the fact that it has been registered by DropCatch.com it probably has been registered before, unfortunately I have not been able to retrieve the original registration date. The same holds for the second-to-last registration, this was on May 13, 2018 and is also held by DropCatch.com.
 
-The twenty latest registrations in the dataset that I am looking at are listed below. It is interesting to see that only 20 domains, out of a dataset of 18,252, have been (re-)registered over the past eight years.
+The twenty latest registrations in the dataset that I am looking at are listed below. It is interesting to see that only 20 domains – out of a dataset of 18,252 – have been (re-)registered over the past eight years.
 
 | Domain names | Creation date |
 |--------------|---------------|
@@ -72,18 +72,18 @@ The twenty latest registrations in the dataset that I am looking at are listed b
 | njd.com      | 2018-05-13    |
 | btm.com      | 2018-07-19    |
 
-### Cumulative build of registrations
+### Cumulative registrations
 
-Given that it took over two and a half years to register the first twenty domain names, it is interesting to see how the cumulative number of registrations has developed over time. From registration number 1 to registration number 18,252. This is visualized in the image below, the solid lines shows the total number of registrations at any given time. The two blue dots represent registration number 1,000 and registration number 17,252: mark the end of the first thousand registerations and the marking the start of the last thousand registrations.
+Given that it took over two and a half years to register the first twenty domain names, it is interesting to see how the cumulative number of registrations has developed over time. From registration number 1 to registration number 18,252. This is visualized in the image below, the solid lines shows the total number of registrations at any given time. The two blue dots represent registration number 1,000 and registration number 17,252: mark the end of the first thousand registrations and the marking the start of the last thousand registrations.
 
 It took approximately 9 years to register the first 5% of all domains, 9 more years to register 90% of the total population and finally another 9 years for the remaining 5%.
 
-![Cumulative registrations](https://raw.githubusercontent.com/uijl/Scraping-Projects/master/Oldest-Domains/Figures/Cumulative_registrations.png "The cumulative number of registrations")
+![Cumulative registrations](https://raw.githubusercontent.com/uijl/uijl.github.io_blog/master/figures/short-domain-names-cumulative-registrations.png "The cumulative number of registrations")
 
 ### Number of registrations during .com bubble
 
 Most of the domain name registrations took place in the 1990s. And it is very interesting (and obvious, but still ..) that the steep increase in registrations start approximately in 1993 / 1994. Right after the release of the [Mosaic web browser](https://en.wikipedia.org/wiki/Mosaic_(web_browser)), which has been said to start the .com bubble.
 
-As the image below shows, the maximum number of monthly domain registerations peaked almost simultaneously with the [NASDAQ Composite](https://finance.yahoo.com/quote/%5EIXIC/history?period1=441759600&period2=1525125600&interval=1mo&filter=history&frequency=1mo). The maximum number of domains registered in a month is 1,107 and this was in January, 2000. The NASDAQ Composite peaked March 10, 2000 and the bubble burst right after. The NASDAQ only broke the record of 2000 in 2015, 15 years (and another large stock crash) later.
+As the image below shows, the maximum number of monthly domain registrations peaked almost simultaneously with the [NASDAQ Composite](https://finance.yahoo.com/quote/%5EIXIC/history?period1=441759600&period2=1525125600&interval=1mo&filter=history&frequency=1mo). The maximum number of domains registered in a month is 1,107 and this was in January, 2000. The NASDAQ Composite peaked March 10, 2000 and the bubble burst right after. The NASDAQ only broke the record of 2000 in 2015, 15 years (and another large stock crash) later.
 
-![Registrations during bubble](https://raw.githubusercontent.com/uijl/Scraping-Projects/master/Oldest-Domains/Figures/Registrations_vs_Nasdaq.png "The number of domain name registrations during the .com bubble")
+![Registrations during bubble](https://raw.githubusercontent.com/uijl/uijl.github.io_blog/master/figures/short-domain-names-registrations-vs-nasdaq.png "The number of domain name registrations during the .com bubble")
