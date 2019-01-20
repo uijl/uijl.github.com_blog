@@ -5,3 +5,11 @@ This repository contains the source code for [my blog](https://uijl.github.io). 
 
 For the actual blog: [link](https://uijl.github.io). <br>
 For the data and code used in blog posts see: [link](https://github.com/uijl/uijl.github.io_code).
+
+### To do:
+- Remove the shadows from images;
+- Allow clicking on images;
+- Make menu mobile-friendly;
+- Add share buttons;
+- Add Twitter cards;
+- Add LinkedIn cards;
