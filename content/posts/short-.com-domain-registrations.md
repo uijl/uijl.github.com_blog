@@ -12,7 +12,7 @@ Inspired by some posts on domain registration dates, such as [this one](https://
 
 Unfortunately all domains are already taken. However, I still think the analysis of the registration dates is interesting. For example, most of the domains were registered during the dot-com bubble. The peak of the NASDAQ Composite and the monthly number of registrations even coincides, peaking in early 2000.
 
-In the upcoming sections I will go deeper in the analysis and list some interesting findings. The registration dates of all websites, the code I used for obtaining the data and the code I used for the analysis can be found on my [github](https://github.com/uijl/Scraping-Projects/Oldest-Domains).
+In the upcoming sections I will go deeper in the analysis and list some interesting findings. The registration dates of all websites, the code I used for obtaining the data and the code I used for the analysis can be found on my [github](https://github.com/uijl/uijl.github.io_code/tree/master/Oldest-Domains).
 
 ### Top 20
 
@@ -45,9 +45,9 @@ It took over two and a half years to register the first 20 domain two- or three-
 
 ### Bottom 20
 
-The latest registration of any of the domains was on July 19th, 2018. Only a month ago. But given the fact that it has been registered by DropCatch.com it probably has been registered before, unfortunately I have not been able to retrieve the original registration date. The same holds for the second-to-last registration, this was on May 13, 2018 and is also held by DropCatch.com.
+The latest registration of any of the domains was on July 19th, 2018. Only half a year ago. But given the fact that it has been registered by DropCatch.com it probably has been registered before, unfortunately I have not been able to retrieve the original registration date. The same holds for the second-to-last registration, this was on May 13, 2018 and is also held by DropCatch.com.
 
-The twenty latest registrations in the dataset that I am looking at are listed below. It is interesting to see that only 20 domains – out of a dataset of 18,252 – have been (re-)registered over the past eight years.
+The twenty latest registrations in the dataset that I am looking at are listed below. It is interesting to see that only 20 domains – out of a dataset of 18,252 – have been (re-)registered over the past ten years.
 
 | Domain names | Creation date |
 |--------------|---------------|
@@ -74,7 +74,7 @@ The twenty latest registrations in the dataset that I am looking at are listed b
 
 ### Cumulative registrations
 
-Given that it took over two and a half years to register the first twenty domain names, it is interesting to see how the cumulative number of registrations has developed over time. From registration number 1 to registration number 18,252. This is visualized in the image below, the solid lines shows the total number of registrations at any given time. The two blue dots represent registration number 1,000 and registration number 17,252: mark the end of the first thousand registrations and the marking the start of the last thousand registrations.
+Given that it took over two and a half years to register the first twenty domain names, it is interesting to see how the cumulative number of registrations has developed over time. From registration number 1 to registration number 18,252. This is visualized in the image below, the solid lines shows the total number of registrations at any given time. The two blue dots represent registration number 1,000 and registration number 17,252: marking the end of the first thousand registrations and the marking the start of the last thousand registrations.
 
 It took approximately 9 years to register the first 5% of all domains, 9 more years to register 90% of the total population and finally another 9 years for the remaining 5%.
 
