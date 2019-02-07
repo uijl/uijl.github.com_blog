@@ -12,7 +12,7 @@ Although I understand the logic behind this reasoning, I have never seen data th
 
 ### Scraping UEFA.com
 
-The [first Champions League match ever played](https://www.uefa.com/uefachampionsleague/history/season=1992/matches/round=46/match=6199/events/index.html "First Champions League match") was between *KI Klaksvik* and *Skonto Riga*. I'll admit that I had never ever heard from those teams. In order to see whether there is an advantage in scoring right before the break we need to know from every goal in what minute is was scored and by which team. The final score was 1-3 and scraping the webpage should therefore result in something similar as the table below. I want to know which period each goal is to distinguish between *45 + 1'* (added time first half) and *46'* (first minute second half).
+The [first Champions League match ever played](https://www.uefa.com/uefachampionsleague/history/season=1992/matches/round=46/match=6199/events/index.html "First Champions League match") was between *KI Klaksvik* and *Skonto Riga*. I'll admit that I had never ever heard from those teams. In order to see whether there is an advantage in scoring right before the break we need to know from every goal in what minute it was scored and by which team. The final score was 1-3 and scraping the webpage should therefore result in something similar as the table below. I want to know which period each goal is to distinguish between *45 + 1'* (added time first half) and *46'* (first minute second half).
 
 | Team | Minute | Period      |
 |:---- |-------:|:----------- |
