@@ -6,7 +6,7 @@ menu: "main"
 meta: "false"
 ---
 
-Since I am trained as a (hydraulic) engineer I learned to code by myself. To prioritize my time I need a clear list of (prioritized) goals. The goal of publishing this list is similar as this website: Forcing myself to showcase my results and goals. If you have any questions or recommendations, please contact me on [twitter](https://www.twitter.com/jorisdenuijl).
+Since I am trained as a (hydraulic) engineer I learned to code by myself. To prioritize my time I need a clear list of (prioritized) goals. The goal of publishing this list is similar as this website: Forcing myself to showcase my results and goals.
 
 This will be a "living" document and I'll update this as I came across something else or finished one of the listed goals.
 
