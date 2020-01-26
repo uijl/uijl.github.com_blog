@@ -1,5 +1,5 @@
 ---
-title: "How to use a Python virtual environment on WSL"
+title: "How to create a Python virtual environment on WSL"
 date: 2020-01-25T12:00:00+01:00
 draft: false
 tags: [Python, WSL, Windows Subsystem for Linux, Virtual Environment]
