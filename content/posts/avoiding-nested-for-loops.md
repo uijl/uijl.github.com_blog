@@ -80,7 +80,9 @@ for year in years:
 
 # Solution using itertools
 import itertools
-date_objects = [datetime(year, month, 1) for year, month in itertools.product(years, months)]
+date_objects = [
+    datetime(year, month, 1) for year, month in itertools.product(years, months)
+]
 ```
 
 You can take the ```itertools.product``` as far as you want. You can add as many _iterable_ variables as possible and itertools will provide you with every unique combination of the iterables you provided.
